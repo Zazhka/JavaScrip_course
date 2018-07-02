@@ -8,3 +8,6 @@ http://learn.javascript.ru/external-script
 
 Task 3. Variables
 http://learn.javascript.ru/variables
+
+Task 4. Variable names
+http://learn.javascript.ru/variable-names
