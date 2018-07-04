@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <!-- Тег meta для указания кодировки -->
+  <meta charset="utf-8">
+</head>
+
+<body>
+
+  <script>
+
+	login = prompt( 'Кто пришёл?' , '' );
+  	
+  	if (login == 'Админ'){
+
+  		psw = prompt( 'Пароль?' , '' );
+
+  		if (psw == 'Чёрный Властелин'){
+  			alert( 'Добро пожаловать!' );
+
+  		} else if (psw == null){
+  			alert( 'Вход отменен' );
+
+  		} else {
+  			alert( 'Пароль неверен' );
+  		}
+
+	} else if (login == null) {
+		alert( 'Вход отменен' );
+		
+	} else {
+		alert( 'Я вас не знаю' );
+	}
+
+  </script>
+
+</body>
+
+</html>
