@@ -14,3 +14,6 @@ http://learn.javascript.ru/variable-names
 
 Task 5. UI basic
 http://learn.javascript.ru/uibasic
+
+Task 6. if, '?'
+http://learn.javascript.ru/ifelse
