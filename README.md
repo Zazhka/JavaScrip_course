@@ -11,3 +11,6 @@ http://learn.javascript.ru/variables
 
 Task 4. Variable names
 http://learn.javascript.ru/variable-names
+
+Task 5. UI basic
+http://learn.javascript.ru/uibasic
