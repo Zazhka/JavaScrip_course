@@ -17,3 +17,6 @@ http://learn.javascript.ru/uibasic
 
 Task 6. if, '?'
 http://learn.javascript.ru/ifelse
+
+Task 7. &&, || and !
+http://learn.javascript.ru/logical-ops
