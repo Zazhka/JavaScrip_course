@@ -23,3 +23,6 @@ http://learn.javascript.ru/logical-ops
 
 Task 8. while, for
 http://learn.javascript.ru/while-for
+
+Task 9. switch
+http://learn.javascript.ru/switch
