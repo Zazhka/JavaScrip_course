@@ -20,3 +20,6 @@ http://learn.javascript.ru/ifelse
 
 Task 7. &&, || and !
 http://learn.javascript.ru/logical-ops
+
+Task 8. while, for
+http://learn.javascript.ru/while-for
