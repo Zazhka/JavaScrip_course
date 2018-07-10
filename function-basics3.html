@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta charset="utf-8">
+</head>
+
+<body>
+
+	<script>
+
+		function pow(x, n) {
+			var e = 1;
+			for (var i = 0; i < n; i++){
+				e *= x;
+			}
+			return e;
+		}
+
+		var x = +prompt('x?', '');
+		var n = +prompt('n?', '');
+
+		if((n < 1) || (n % 1 != 0)){
+			alert('Степень ' + n + ' не поддерживается, введите целую степень, большую 1');
+		} else {
+			alert(pow(x, n));
+		}
+
+	</script>
+
+</body>
+
+</html>
