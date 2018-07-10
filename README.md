@@ -26,3 +26,6 @@ http://learn.javascript.ru/while-for
 
 Task 9. switch
 http://learn.javascript.ru/switch
+
+Task 10. function-basics
+http://learn.javascript.ru/function-basics
