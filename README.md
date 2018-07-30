@@ -41,3 +41,6 @@ http://learn.javascript.ru/object
 
 Task 14. Объекты: перебор свойств
 http://learn.javascript.ru/object-for-in
+
+Task 15. Массивы с числовыми индексами
+http://learn.javascript.ru/array
