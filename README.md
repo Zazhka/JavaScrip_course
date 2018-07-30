@@ -40,4 +40,4 @@ Task 13. Объекты как ассоциативные массивы
 http://learn.javascript.ru/object
 
 Task 14. Объекты: перебор свойств
-http://learn.javascript.ru/object
+http://learn.javascript.ru/object-for-in
