@@ -21,7 +21,7 @@ http://learn.javascript.ru/ifelse
 Task 7. Логические операторы
 http://learn.javascript.ru/logical-ops
 
-Task 8. while, for
+Task 8. Циклы while, for
 http://learn.javascript.ru/while-for
 
 Task 9. Конструкция switch
