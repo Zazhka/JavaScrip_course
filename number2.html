@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8">
+</head>
+
+<body>
+
+  <script>
+
+  	var number = +prompt("Введите num", "");
+
+  	alert( getDecimal(number) );
+
+	function getDecimal(num){
+		var exp = Math.pow(10, 10);
+		var fl = Math.round((num % 1) * exp) / exp;
+		return( Math.abs(fl) );
+	}
+
+  </script>
+ 
+</body>
+
+</html>

@@ -29,3 +29,6 @@ http://learn.javascript.ru/switch
 
 Task 10. function-basics
 http://learn.javascript.ru/function-basics
+
+Task 11. number
+http://learn.javascript.ru/number
