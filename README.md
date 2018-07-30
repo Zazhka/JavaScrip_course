@@ -35,3 +35,6 @@ http://learn.javascript.ru/number
 
 Task 12. string
 http://learn.javascript.ru/string
+
+Task 13. object
+http://learn.javascript.ru/object
