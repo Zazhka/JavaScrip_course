@@ -32,3 +32,6 @@ http://learn.javascript.ru/function-basics
 
 Task 11. number
 http://learn.javascript.ru/number
+
+Task 12. string
+http://learn.javascript.ru/string
